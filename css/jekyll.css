@@ -72,10 +72,14 @@ header h2 {
   margin-left: 40px;
 }
 
+header section{
+  margin-left: 40px;
+}
+
 #links .btn {
   display: inline-block;
   text-align: center;
-  margin: 0px 0px 0px 40px;
+  margin: 0;
 }
 
 /* Main Content
