@@ -1,1 +1,6 @@
 baseurl: /blog
+markdown: rdiscount
+pygments: true
+permalink: /:year/:month/:day/:title.html
+name: "[shutter release]"
+markdown: rdiscount
