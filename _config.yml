@@ -5,5 +5,3 @@ permalink: /:year/:month/:day/:title.html
 name: "Machine Learning Notes"
 markdown: rdiscount
 author: hanfeng
-paginate: 16
-auto: true
