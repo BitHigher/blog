@@ -9,14 +9,14 @@ a
 
 who involved in 
 
-> [github](https://github.com/waynezhang)
+> [github](https://github.com/mlnotes)
 
 mail 
 
-> echo srvpqxfbyqfvpdtkbjwt | tr yxwvtsrqpkjfdb zuonmlihgeca@.
+> echo fpgpxqrnqmbmkxhoswdk | tr pnkmgwbshrdxfoq hemguc@.ifoazln
 
 or follow 
 
-> [@o_lll](https://twitter.com/#!/o_lll)
+> [@InfoCatcher](https://weibo.com/bithigher)
 
 to reach me
