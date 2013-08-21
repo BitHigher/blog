@@ -17,6 +17,6 @@ mail
 
 or follow 
 
-> [@InfoCatcher](https://weibo.com/bithigher)
+> [@InfoCatcher](http://weibo.com/bithigher)
 
 to reach me
