@@ -1,3 +1,4 @@
+url: http://mlnotes.com
 baseurl: /blog
 markdown: rdiscount
 pygments: true
